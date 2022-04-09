@@ -1,0 +1,69 @@
+body {
+  margin: 0;
+  background-color: #1e4068;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.C {
+  position: absolute;
+  z-index: -1;
+}
+.tseg {
+  margin: 19px;
+}
+.logo {
+  margin-top: 85px;
+  margin-left: 83px;
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  display: flex;
+}
+.dark {
+  margin-top: 93.4px;
+  margin-left: 186.5px;
+  position: absolute;
+  height: 33px;
+  width: 31.74px;
+}
+.sar {
+  position: absolute;
+  z-index: -2;
+}
+.od {
+  padding-left: 22px;
+  position: absolute;
+  z-index: -1;
+}
+.nemeh {
+  padding-left: 29.33px;
+  padding-top: 12.85px;
+}
+.main-container {
+  display: flex;
+}
+.top-container {
+  height: 200px;
+  display: flex;
+  flex-direction: row;
+}
+.togloh {
+  background-color: #45b9ff;
+  width: 145.81px;
+  height: 37px;
+  border-radius: 32.38px;
+  border: solid;
+  font-size: 16px;
+}
+.light {
+  height: 33px;
+  width: 33px;
+  margin-top: 93.5px;
+  position: absolute;
+  margin-left: 278.5px;
+}
+.gol {
+  position: absolute;
+  z-index: -1;
+  padding: 9.17px;
+}
